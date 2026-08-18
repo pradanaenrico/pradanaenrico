@@ -61,13 +61,7 @@ Software Engineer dengan pengalaman lebih dari 3,5 tahun dalam merancang, mengem
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradanaenrico&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ### 📬 Let's Connect
 * **Email:** [pradanaenrico@gmail.com](mailto:pradanaenrico@gmail.com)
 * **Phone / WhatsApp:** 089681688287
 * **Location:** Sidoarjo, Jawa Timur, Indonesia
-* **LinkedIn / Portfolio:** [Tautkan LinkedIn Anda di sini]
