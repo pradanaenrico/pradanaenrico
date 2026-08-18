@@ -44,7 +44,7 @@
   <h2>📑 Dokumen Portofolio Komprehensif</h2>
   <p>Untuk melihat detail teknis, arsitektur sistem, dan kontribusi mendalam pada 7 proyek IT saya (termasuk detil implementasi sensor, dasbor fleet maintenance, dan integrasi AI), silakan akses dokumen lengkap berikut:</p>
   <p align="center">
-    <a href="[URL_LINK_REPO_PROJECT_IT_COMPREHENSIVE_ANDA](https://github.com/pradanaenrico/it-comprehensive-portfolio)">
+    <a href="https://github.com/pradanaenrico/it-comprehensive-portfolio">
       <img src="https://img.shields.io/badge/Lihat-Dokumen%20Portofolio%20Lengkap-blue?style=for-the-badge&logo=pdf" alt="Portofolio Lengkap" />
     </a>
   </p>
