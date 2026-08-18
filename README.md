@@ -48,7 +48,7 @@
 </div>
 
 <div id="projects">
-  <h2>🚀 Proyek Unggulan</h2>
+  <h2>🚀 Proyek </h2>
 
   ### 🏢 1. Aplikasi Internal Perusahaan (Merak Jaya Group)
   Pengembangan ekosistem digital untuk operasional perusahaan berskala besar.
