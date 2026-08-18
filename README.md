@@ -72,17 +72,9 @@
   
   <p>
     <a href="https://github.com/pradanaenrico/it-comprehensive-portfolio">
-      <img src="https://img.shields.io/badge/Lihat_Portofolio_Lengkap_PDF-00599C?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Portofolio Lengkap" />
+      <img src="https://img.shields.io/badge/Lihat_Portofolio_Lengkap-00599C?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Portofolio Lengkap" />
     </a>
   </p>
-</div>
-
-<div align="center">
-  <h2>📊 Statistik GitHub</h2>
-  <a href="https://github.com/pradanaenrico">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradanaenrico&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradanaenrico&layout=compact&langs_count=7&theme=radical"/>
-  </a>
 </div>
 
 ---
